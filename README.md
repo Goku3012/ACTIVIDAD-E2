@@ -116,6 +116,10 @@
 
 'PuntoVenta:
 
-         cout<<"El Valor del Iva de su compra es: $ "<<MJ_Piva<<endl;
+         cout<<"El Valor del Iva de su compra es: $ "<<MJ_Piva<<endl; 
 		cout<<"El valor del Descuento de su Compra es: $ "<<MJ_Pdsc<<endl;
 		cout<<"El Valor Total de su Compra a pagar es: $ "<<MJ_vf<<endl;
+
+'SumaN:
+
+       cout<<"La Suma Total es: "<<MJ_a<<endl;
