@@ -99,3 +99,14 @@
 	cout<<"El valor de X: "<<MJ_x<<"es igual a Y: "<<MJ_y<<endl;
 	cout<<"El valor de X: "<<MJ_x<<" es menor a Y: "<<MJ_y<<endl;
 	cout<<"El valor de Y: "<<MJ_y<<" es menor a X: "<<MJ_x<<endl;
+
+'CuentaMoneda:
+
+               cout<<"Total de Monedas Contadas: "<<MJ_c<<endl<<endl;
+	cout<<"Valor Total en Efectivo:$ "<<MJ_a<<endl<<endl;
+	cout<<"Cantidad de monedas de 0.10ctvs: "<<MJ_c1<<endl;
+	cout<<"Valor en Efectivo de monedas de 0.10ctvs:$ "<<MJ_a1<<endl<<endl;
+	cout<<"Cantidad de monedas de 0.25ctvs: "<<MJ_c2<<endl;
+	cout<<"Valor en Efectivo de monedas de 0.25ctvs:$ "<<MJ_a2<<endl<<endl;
+	cout<<"Cantidad de monedas de 0.50ctvs: "<<MJ_c3<<endl<<endl;
+	cout<<"Valor en Efectivo de monedas de 0.50ctvs:$ "<<MJ_a3<<endl;
