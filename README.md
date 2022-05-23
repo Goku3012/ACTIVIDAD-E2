@@ -10,19 +10,19 @@ Link de video:  https://www.youtube.com/watch?v=2skcnqHdH-c
 
 ## Nombre de los Programas
 
-'Compara.cpp'
+´Compara.cpp`
 
-'CuentaMoneda.cpp'
+CuentaMoneda.cpp
 
-'Laedad.cpp'
+Laedad.cpp
 
-'PuntoVenta.cpp'
+PuntoVenta.cpp
 
-'SumaN.cpp'
+SumaN.cpp
 
 ### Descripcion de los Programas
 
-'Compara: Es un programa que nos permite comparar 2 números y verificar cual de estos es el mayor, menor o si son iguales'
+´Compara: Es un programa que nos permite comparar 2 números y verificar cual de estos es el mayor, menor o si son iguales`
 
 'CuentaMoneda: Es un programa que permite al usuario contar monedas de 3 denominaciones, saber cuanto es la cantidad de dinero que tiene y cuantas monedas tiene de cada denominación'
 
