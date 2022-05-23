@@ -34,7 +34,7 @@ PataJennifer-SumaN.CPP : Es un programa encargado para que cualquier usuario en 
 
 ## Funcionalidad
 
-'Compara: 
+PataJennifer-Compara.cpp 
 
          float MJ_x,MJ_y;
 	   
@@ -46,7 +46,7 @@ PataJennifer-SumaN.CPP : Es un programa encargado para que cualquier usuario en 
 	
 	 cin>>MJ_y;
 
-'CuentaMoneda:
+PataJennifer-CuentaMoneda.cpp
 
           int MJ_n,MJ_c=0,MJ_c1=0,MJ_c2=0,MJ_c3=0;
 
@@ -64,7 +64,7 @@ PataJennifer-SumaN.CPP : Es un programa encargado para que cualquier usuario en 
 	   
 	   cin>>MJ_x;
 
-'Laedad:
+PataJennifer-laedad.cpp
  
             int MJ_da,MJ_ma,MJ_aa,MJ_dn,MJ_mn,MJ_an,MJ_d,MJ_m,MJ_a;
 	
@@ -76,7 +76,7 @@ PataJennifer-SumaN.CPP : Es un programa encargado para que cualquier usuario en 
 	    
 	    cin>>MJ_dn>>MJ_mn>>MJ_an;
 
-'PuntoVenta:
+PataJennifer-PuntoVenta.cpp
 
              int MJ_c=0,MJ_n;
 
@@ -92,7 +92,7 @@ PataJennifer-SumaN.CPP : Es un programa encargado para que cualquier usuario en 
 	     
 	     cin>>MJ_x;
 
-'SumaN:
+PataJennifer-SumaN.cpp
 
              int MJ_c=0,MJ_n;
 
@@ -110,13 +110,13 @@ PataJennifer-SumaN.CPP : Es un programa encargado para que cualquier usuario en 
 
 ### Salidas de los Programas
 
-'Compara:
+PataJennifer-Compara.cpp
 
 	      cout<<"El valor de X: "<<MJ_x<<"es igual a Y: "<<MJ_y<<endl;
 	      cout<<"El valor de X: "<<MJ_x<<" es menor a Y: "<<MJ_y<<endl;
 	      cout<<"El valor de Y: "<<MJ_y<<" es menor a X: "<<MJ_x<<endl;
 
-'CuentaMoneda:
+PataJennifer-CuentaMoneda.cpp
 
 	       cout<<"Valor Total en Efectivo:$ "<<MJ_a<<endl<<endl;
 	       cout<<"Cantidad de monedas de 0.10ctvs: "<<MJ_c1<<endl;
@@ -126,17 +126,17 @@ PataJennifer-SumaN.CPP : Es un programa encargado para que cualquier usuario en 
 	       cout<<"Cantidad de monedas de 0.50ctvs: "<<MJ_c3<<endl<<endl;
 	       cout<<"Valor en Efectivo de monedas de 0.50ctvs:$ "<<MJ_a3<<endl;
 
-'Laedad:
+PataJennifer-laedad.cpp
 
                 cout<<"Ustd Tiene "<<MJ_a<<" años "<<MJ_m<<" meses "<<" y "<<MJ_d<<" dias "<<endl;
 
-'PuntoVenta:
+PataJennifer-PuntoVenta.cpp
 
                 cout<<"El Valor del Iva de su compra es: $ "<<MJ_Piva<<endl; 
 		cout<<"El valor del Descuento de su Compra es: $ "<<MJ_Pdsc<<endl;
 		cout<<"El Valor Total de su Compra a pagar es: $ "<<MJ_vf<<endl;
 
-'SumaN:
+PataJennifer-SumaN.cpp
 
                 cout<<"La Suma Total es: "<<MJ_a<<endl;
 
