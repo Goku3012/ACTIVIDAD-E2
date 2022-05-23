@@ -39,3 +39,19 @@
 	cin>>MJ_x;
 	cout<<"Ingrese el valor de Y: ";
 	cin>>MJ_y;
+
+'CuentaMoneda:
+
+                int MJ_n,MJ_c=0,MJ_c1=0,MJ_c2=0,MJ_c3=0;
+
+	float MJ_x,MJ_a=0,MJ_a1=0,MJ_a2=0,MJ_a3=0;
+	
+	cout<<"Bienvenidos al Cuenta Monedas Don Naza "<<endl<<endl;
+	
+	cout<<"Ingrese la Cantidad de monedas a contar: "<<endl<<endl;
+	cin>>MJ_n;
+	
+	do{
+	
+		cout<<"Ingrese su valor en monedas (0.10,0.25,0.50):$ "<<endl;
+	        cin>>MJ_x;
