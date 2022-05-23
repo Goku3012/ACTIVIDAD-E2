@@ -127,6 +127,21 @@
 
 ### Instalación
 
-1.- Clonar el repositorio 
+1.- Instalar paquetes en la Terminal (Termux)
 
-                          https://github.com/Goku3012/GeneracionZ.git
+                           > pkg install git
+			   > pkg install vim
+			   > pkg install g++
+			   > pkg install clang
+			   > apt update
+			   > apt upgrade
+			   
+2.- Clonar el Repositorio en la Terminal
+
+                           https://github.com/Goku3012/GeneracionZ.git
+			   
+3.- Acceder al Repositorio
+
+                            cd GeneracionZ
+			    
+4.- 
