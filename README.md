@@ -141,7 +141,7 @@ PataJennifer-SumaN.cpp
                 cout<<"La Suma Total es: "<<MJ_a<<endl;
 
 
-## Instalación
+### Instalación
 
 1.- Instalar paquetes en la Terminal (Termux)
 
