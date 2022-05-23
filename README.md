@@ -22,7 +22,7 @@ PataJennifer-SumaN.cpp
 
 ### Descripcion de los Programas
 
-PataJennifer-Compara.cpp : Es un programa que nos permite comparar 2 números y verificar cual de estos es el mayor, menor o si son iguales
+#### PataJennifer-Compara.cpp : Es un programa que nos permite comparar 2 números y verificar cual de estos es el mayor, menor o si son iguales
 
 PataJennifer-CuentaMoneda.cpp : Es un programa que permite al usuario contar monedas de 3 denominaciones, saber cuanto es la cantidad de dinero que tiene y cuantas monedas tiene de cada denominación'
 
@@ -143,7 +143,15 @@ PataJennifer-SumaN.cpp
 
 ### Instalación
 
-1.- Instalar paquetes en la Terminal (Termux)
+1.- Descargar F-Droid
+
+https://f-droid.org/
+
+2.- Descargar la Terminal (Termux)
+
+Dentro de la aplicación F-Droid
+
+3.- Instalar paquetes en la Terminal (Termux)
 
                  > pkg install git
 	         > pkg install vim
@@ -152,23 +160,19 @@ PataJennifer-SumaN.cpp
 		 > apt update
 		 > apt upgrade
 			   
-2.- Clonar el Repositorio en la Terminal
+4.- Clonar el Repositorio en la Terminal
 
-                 https://github.com/Goku3012/GeneracionZ.git
+            git clone https://github.com/Goku3012/ACTIVIDAD-E2.git
 			   
 3.- Acceder al Repositorio
 
-                            cd GeneracionZ
+             cd ACTIVIDAD-E2
 			    
 4.- Acceder al Directorio
 
-                cd PataJennifer
+              cd ACTIVIDAD-B2-C2
 		
-5.- Acceder al Subdirectorio 
-
-                 cd ACTIVIDAD-B2-C2
-		 
-5.- Dar comando > ls
+5.- Escribir Comando > ls
 
                  * PataJennifer-Compara
 		 * PataJennifer-Compara.cpp
@@ -190,23 +194,19 @@ PataJennifer-SumaN.cpp
 
 1.- Ingresar al Repositorio
 
-                            cd GeneracionZ
+                            cd ACTIVIDAD-E2
 			    
 2.- Ingresar al Directorio
 
-                           cd PataJennifer
-			   
-3.- Ingresar al Subdirectorio
-
                            cd ACTIVIDAD-B2-C2
-			  
-4.- Compilar Programa
+	
+3.- Compilar Programa
 
-                           g++ PataJennifer-Compara.cpp -o PataJennifer-Compara
+       g++ PataJennifer-Compara.cpp -o PataJennifer-Compara
 			   
 ### Ejecución de un Programa
 
-                            ./PataJennifer-Compara
+              ./PataJennifer-Compara
 			    
 #### Visualización del Programa.
 
