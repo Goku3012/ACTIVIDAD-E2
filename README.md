@@ -158,4 +158,54 @@
 
                             cd GeneracionZ
 			    
-4.- 
+4.- Acceder al Directorio
+
+                cd PataJennifer
+		
+5.- Acceder al Subdirectorio 
+
+                 cd ACTIVIDAD-B2-C2
+		 
+5.- Dar comando > ls
+
+                 * PataJennifer-Compara
+		 * PataJennifer-Compara.cpp
+		 * PataJennifer-Compara.jpg
+		 * PataJennifer-CuentaMoneda
+		 * PataJennifer-CuentaMoneda.cpp
+		 * PataJennifer-CuentaMoneda.jpg
+		 * PataJennifer-Laedad
+		 * PataJennifer-Laedad.cpp
+		 * PataJennifer-Laedad.jpg
+		 * PataJennifer-PuntoVenta
+		 * PataJennifer-PuntoVenta.cpp
+		 * PataJennifer-PuntoVenta.jpg
+		 * PataJennifer-SumaN
+		 * PataJennifer-SumaN.cpp
+		 * PataJennifer-SumaN.jpg
+		 
+### Compilación de un Programa
+
+1.- Ingresar al Repositorio
+
+                            cd GeneracionZ
+			    
+2.- Ingresar al Directorio
+
+                           cd PataJennifer
+			   
+3.- Ingresar al Subdirectorio
+
+                           cd ACTIVIDAD-B2-C2
+			  
+4.- Compilar Programa
+
+                           g++ PataJennifer-Compara.cpp -o PataJennifer-Compara
+			   
+### Ejecución de un Programa
+
+                            ./PataJennifer-Compara
+			    
+#### Visualización del Programa.
+
+
