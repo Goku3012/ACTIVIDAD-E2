@@ -4,7 +4,7 @@
 
 ´Correo electronico: jennifer.pata.mina@utelvt.edu.ec`
 
-´Celular: 099216****`
+´Celular: 099216****
 
 ´Link de video:  https://www.youtube.com/watch?v=2skcnqHdH-c`
 
