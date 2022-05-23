@@ -102,7 +102,6 @@
 
 'CuentaMoneda:
 
-               cout<<"Total de Monedas Contadas: "<<MJ_c<<endl<<endl;
 	cout<<"Valor Total en Efectivo:$ "<<MJ_a<<endl<<endl;
 	cout<<"Cantidad de monedas de 0.10ctvs: "<<MJ_c1<<endl;
 	cout<<"Valor en Efectivo de monedas de 0.10ctvs:$ "<<MJ_a1<<endl<<endl;
@@ -110,3 +109,7 @@
 	cout<<"Valor en Efectivo de monedas de 0.25ctvs:$ "<<MJ_a2<<endl<<endl;
 	cout<<"Cantidad de monedas de 0.50ctvs: "<<MJ_c3<<endl<<endl;
 	cout<<"Valor en Efectivo de monedas de 0.50ctvs:$ "<<MJ_a3<<endl;
+
+'Laedad:
+
+         cout<<"Ustd Tiene "<<MJ_a<<" años "<<MJ_m<<" meses "<<" y "<<MJ_d<<" dias "<<endl;
