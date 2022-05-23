@@ -22,15 +22,25 @@ PataJennifer-SumaN.cpp
 
 ### Descripcion de los Programas
 
-#### PataJennifer-Compara.cpp : Es un programa que nos permite comparar 2 números y verificar cual de estos es el mayor, menor o si son iguales
+#### PataJennifer-Compara.cpp : 
 
-PataJennifer-CuentaMoneda.cpp : Es un programa que permite al usuario contar monedas de 3 denominaciones, saber cuanto es la cantidad de dinero que tiene y cuantas monedas tiene de cada denominación'
+Es un programa que nos permite comparar 2 números y verificar cual de estos es el mayor, menor o si son iguales.
 
-PataJennifer-laedad.cpp : Es un programa que permite al usuario calcular su edad en Años Meses y Dias
+#### PataJennifer-CuentaMoneda.cpp : 
 
-PataJennifer-PuntoVenta.cpp :  Es un programa que se encargara de calcular la compra de varios productos, calculando su valor bruto, sumandole el Iva a la compra y realizando un descuento adicional a la compra del usuario'
+Es un programa que permite al usuario contar monedas de 3 denominaciones, saber cuanto es la cantidad de dinero que tiene y cuantas monedas tiene de cada denominación'
 
-PataJennifer-SumaN.CPP : Es un programa encargado para que cualquier usuario en general pueda calcular los valores de varios números
+#### PataJennifer-laedad.cpp : 
+
+Es un programa que permite al usuario calcular su edad en Años Meses y Dias
+
+#### PataJennifer-PuntoVenta.cpp :  
+
+Es un programa que se encargara de calcular la compra de varios productos, calculando su valor bruto, sumandole el Iva a la compra y realizando un descuento adicional a la compra del usuario'
+
+#### PataJennifer-SumaN.cpp : 
+
+Es un programa encargado para que cualquier usuario en general pueda calcular los valores de varios números.
 
 ## Funcionalidad
 
