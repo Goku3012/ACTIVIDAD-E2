@@ -65,3 +65,15 @@
 
 	cout<<"Ingrese la Fecha de su  Nacimiento: Dia Mes  Año "<<endl;
 	cin>>MJ_dn>>MJ_mn>>MJ_an;
+
+'PuntoVenta:
+
+              int MJ_c=0,MJ_n;
+
+	float MJ_a=0,MJ_x,MJ_Piva,MJ_Pdsc,MJ_iva=0.12,MJ_dsc=0.10,MJ_vf;
+
+	cout<<"Ingrese la Cantidad de Productos a Comprar: ";
+	cin>>MJ_n;
+	do{
+		cout<<"Ingrese el valor del Producto:$ ";
+		cin>>MJ_x;
