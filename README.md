@@ -123,3 +123,10 @@
 'SumaN:
 
        cout<<"La Suma Total es: "<<MJ_a<<endl;
+
+
+### Instalación
+
+1.- Clonar el repositorio 
+
+                          https://github.com/Goku3012/GeneracionZ.git
