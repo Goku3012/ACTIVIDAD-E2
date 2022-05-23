@@ -91,3 +91,5 @@
 
 	cout<<"Ingrese un Número: ";
 	cin>>MJ_x;
+
+#### Salidas de los Programas
