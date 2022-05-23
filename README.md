@@ -92,4 +92,15 @@
 	cout<<"Ingrese un Número: ";
 	cin>>MJ_x;
 
-#### Salidas de los Programas
+### Salidas de los Programas
+
+'Compara:
+
+         if(MJ_x==MJ_y){
+	cout<<"El valor de X: "<<MJ_x<<"es igual a Y: "<<MJ_y<<endl;
+	}else{
+	if(MJ_x<MJ_y){
+	cout<<"El valor de X: "<<MJ_x<<" es menor a Y: "<<MJ_y<<endl;
+	}else{
+	cout<<"El valor de Y: "<<MJ_y<<" es menor a X: "<<MJ_x<<endl;
+	}
