@@ -6,7 +6,7 @@
 
 'Link de video:  https://www.youtube.com/watch?v=2skcnqHdH-c'
 
-# Nombre de los Programas
+## Nombre de los Programas
 
 'Compara.cpp'
 
@@ -17,3 +17,4 @@
 'PuntoVenta.cpp'
 
 'SumaN.cpp'
+
