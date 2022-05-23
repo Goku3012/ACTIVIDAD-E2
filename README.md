@@ -77,3 +77,17 @@
 	do{
 		cout<<"Ingrese el valor del Producto:$ ";
 		cin>>MJ_x;
+
+'SumaN:
+
+        int MJ_c=0,MJ_n;
+
+	float MJ_a=0,MJ_x;
+
+	cout<<"Ingrese la Cantidad de Números a Sumar: ";
+	cin>>MJ_n;
+
+	do{
+
+	cout<<"Ingrese un Número: ";
+	cin>>MJ_x;
