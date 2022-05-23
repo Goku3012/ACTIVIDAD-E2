@@ -55,3 +55,13 @@
 	
 		cout<<"Ingrese su valor en monedas (0.10,0.25,0.50):$ "<<endl;
 	        cin>>MJ_x;
+
+'Laedad:
+ 
+         int MJ_da,MJ_ma,MJ_aa,MJ_dn,MJ_mn,MJ_an,MJ_d,MJ_m,MJ_a;
+	
+	cout<<"Ingrese la Fecha Actual: Dia Mes  Año "<<endl;
+	cin>>MJ_da>>MJ_ma>>MJ_aa;
+
+	cout<<"Ingrese la Fecha de su  Nacimiento: Dia Mes  Año "<<endl;
+	cin>>MJ_dn>>MJ_mn>>MJ_an;
