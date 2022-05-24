@@ -118,35 +118,45 @@ PataJennifer-SumaN.cpp
 	      
 	      cin>>MJ_x;
 
-### Salidas de los Programas
+## Salidas de los Programas
 
-#### PataJennifer-Compara.cpp
+### PataJennifer-Compara.cpp
 
 cout<<"El valor de X: "<<MJ_x<<"es igual a Y: "<<MJ_y<<endl;
+
 cout<<"El valor de X: "<<MJ_x<<" es menor a Y: "<<MJ_y<<endl;
+
 cout<<"El valor de Y: "<<MJ_y<<" es menor a X: "<<MJ_x<<endl;
 
-#### PataJennifer-CuentaMoneda.cpp
+### PataJennifer-CuentaMoneda.cpp
 
 cout<<" Valor Total en Efectivo:$ "<<MJ_a<<endl<<endl;
+
 cout<<" Cantidad de monedas de 0.10ctvs: "<<MJ_c1<<endl;
+
 cout<<" Valor en Efectivo de monedas de 0.10ctvs:$ "<<MJ_a1<<endl<<endl;
+
 cout<<" Cantidad de monedas de 0.25ctvs: "<<MJ_c2<<endl;
+
 cout<<" Valor en Efectivo de monedas de 0.25ctvs:$ "<<MJ_a2<<endl<<endl;
+
 cout<<" Cantidad de monedas de 0.50ctvs: "<<MJ_c3<<endl<<endl;
+
 cout<<" Valor en Efectivo de monedas de 0.50ctvs:$ "<<MJ_a3<<endl;
 
-#### PataJennifer-laedad.cpp
+### PataJennifer-laedad.cpp
 
 cout<<"Ustd Tiene "<<MJ_a<<" años "<<MJ_m<<" meses "<<" y "<<MJ_d<<" dias "<<endl;
 
-#### PataJennifer-PuntoVenta.cpp
+### PataJennifer-PuntoVenta.cpp
 
 cout<<"El Valor del Iva de su compra es: $ "<<MJ_Piva<<endl; 
+
 cout<<"El valor del Descuento de su Compra es: $ "<<MJ_Pdsc<<endl;
+
 cout<<"El Valor Total de su Compra a pagar es: $ "<<MJ_vf<<endl;
 
-#### PataJennifer-SumaN.cpp
+### PataJennifer-SumaN.cpp
 
 cout<<"La Suma Total es: "<<MJ_a<<endl;
 
@@ -174,8 +184,9 @@ Dentro de la aplicación F-Droid
 > apt update
  
 > apt upgrade
+
 			   
-4.- Clonar el Repositorio en la Terminal
+## 4.- Clonar el Repositorio en la Terminal
 
 git clone https://github.com/Goku3012/ACTIVIDAD-E2.git
 			   
@@ -209,19 +220,19 @@ cd ACTIVIDAD-E2
 
 1.- Ingresar al Repositorio
 
-     cd ACTIVIDAD-E2
+cd ACTIVIDAD-E2
 			    
 2.- Ingresar al Directorio
 
-     cd ACTIVIDAD-B2-C2
+cd ACTIVIDAD-B2-C2
 	
 3.- Compilar Programa
 
-  g++ PataJennifer-laedad.cpp -o PataJennifer-laedad
+g++ PataJennifer-laedad.cpp -o PataJennifer-laedad
 			   
 ### Ejecución de un Programa
 
-  ./PataJennifer-laedad
+./PataJennifer-laedad
 			    
 #### Visualización del Programa.
 
