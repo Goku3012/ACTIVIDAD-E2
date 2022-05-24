@@ -163,12 +163,17 @@ Dentro de la aplicación F-Droid
 
 3.- Instalar paquetes en la Terminal (Termux)
 
- > pkg install git
- > pkg install vim
- > pkg install g++
- > pkg install clang 
- > apt update
- > apt upgrade
+> pkg install git
+ 
+> pkg install vim
+ 
+> pkg install g++
+ 
+> pkg install clang 
+
+> apt update
+ 
+> apt upgrade
 			   
 4.- Clonar el Repositorio en la Terminal
 
