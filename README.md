@@ -220,4 +220,6 @@ Dentro de la aplicación F-Droid
 			    
 #### Visualización del Programa.
 
+![Imge text](https://github.com/Goku3012/ACTIVIDAD-E2/blob/main/capture%20la%20edad.jpeg)
+
 
