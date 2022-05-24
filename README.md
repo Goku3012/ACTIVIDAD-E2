@@ -163,44 +163,44 @@ Dentro de la aplicación F-Droid
 
 3.- Instalar paquetes en la Terminal (Termux)
 
-                 > pkg install git
-	         > pkg install vim
-	         > pkg install g++
-		 > pkg install clang
-		 > apt update
-		 > apt upgrade
+ > pkg install git
+ > pkg install vim
+ > pkg install g++
+ > pkg install clang 
+ > apt update
+ > apt upgrade
 			   
 4.- Clonar el Repositorio en la Terminal
 
-            git clone https://github.com/Goku3012/ACTIVIDAD-E2.git
+git clone https://github.com/Goku3012/ACTIVIDAD-E2.git
 			   
-3.- Acceder al Repositorio
+5.- Acceder al Repositorio
 
              cd ACTIVIDAD-E2
 			    
-4.- Acceder al Directorio
+6.- Acceder al Directorio
 
               cd ACTIVIDAD-B2-C2
 		
-5.- Escribir Comando > ls
+7.- Escribir Comando > ls
 
-                 * PataJennifer-Compara
-		 * PataJennifer-Compara.cpp
-		 * PataJennifer-Compara.jpg
-		 * PataJennifer-CuentaMoneda
-		 * PataJennifer-CuentaMoneda.cpp
-		 * PataJennifer-CuentaMoneda.jpg
-		 * PataJennifer-Laedad
-		 * PataJennifer-Laedad.cpp
-		 * PataJennifer-Laedad.jpg
-		 * PataJennifer-PuntoVenta
-		 * PataJennifer-PuntoVenta.cpp
-		 * PataJennifer-PuntoVenta.jpg
-		 * PataJennifer-SumaN
-		 * PataJennifer-SumaN.cpp
-		 * PataJennifer-SumaN.jpg
+* PataJennifer-Compara
+* PataJennifer-Compara.cpp
+* PataJennifer-Compara.jpg
+* PataJennifer-CuentaMoneda
+* PataJennifer-CuentaMoneda.cpp
+* PataJennifer-CuentaMoneda.jpg
+* PataJennifer-Laedad
+* PataJennifer-Laedad.cpp
+* PataJennifer-Laedad.jpg
+* PataJennifer-PuntoVenta
+* PataJennifer-PuntoVenta.cpp
+* PataJennifer-PuntoVenta.jpg
+* PataJennifer-SumaN
+* PataJennifer-SumaN.cpp
+* PataJennifer-SumaN.jpg
 		 
-### Compilación de un Programa
+## Compilación de un Programa
 
 1.- Ingresar al Repositorio
 
@@ -212,11 +212,11 @@ Dentro de la aplicación F-Droid
 	
 3.- Compilar Programa
 
-       g++ PataJennifer-Compara.cpp -o PataJennifer-Compara
+       g++ PataJennifer-laedad.cpp -o PataJennifer-laedad
 			   
 ### Ejecución de un Programa
 
-              ./PataJennifer-Compara
+              ./PataJennifer-laedad
 			    
 #### Visualización del Programa.
 
