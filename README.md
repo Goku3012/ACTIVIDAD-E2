@@ -1,6 +1,6 @@
 #  PROGRAMAS EN C++ DE PATA JENNIFER
 ```
-Autor: Jennifer Maibe Pata Mina
+Autor: Pata Mina Jennifer Maibe
 
 Correo electronico: jennifer.pata.mina@utelvt.edu.ec
 
