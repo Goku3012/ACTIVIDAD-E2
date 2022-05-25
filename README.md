@@ -9,7 +9,7 @@ Celular: 099216****
 Link de video:  https://www.youtube.com/watch?v=2skcnqHdH-c
 ```
 ## Nombre de los Programas
-´´´
+```
 PataJennifer-Compara.cpp
 
 PataJennifer-CuentaMoneda.cpp
@@ -20,32 +20,31 @@ PataJennifer-PuntoVenta.cpp
 
 PataJennifer-SumaN.cpp
 ```
-
-### Descripcion de los Programas
-
-#### PataJennifer-Compara.cpp : 
+## Descripcion de los Programas
+```
+### PataJennifer-Compara.cpp : 
 
 Es un programa que nos permite comparar 2 números y verificar cual de estos es el mayor, menor o si son iguales.
 
-#### PataJennifer-CuentaMoneda.cpp : 
+### PataJennifer-CuentaMoneda.cpp : 
 
 Es un programa que permite al usuario contar monedas de 3 denominaciones, saber cuanto es la cantidad de dinero que tiene y cuantas monedas tiene de cada denominación'
 
-#### PataJennifer-laedad.cpp : 
+### PataJennifer-laedad.cpp : 
 
 Es un programa que permite al usuario calcular su edad en Años Meses y Dias
 
-#### PataJennifer-PuntoVenta.cpp :  
+### PataJennifer-PuntoVenta.cpp :  
 
 Es un programa que se encargara de calcular la compra de varios productos, calculando su valor bruto, sumandole el Iva a la compra y realizando un descuento adicional a la compra del usuario'
 
-#### PataJennifer-SumaN.cpp : 
+### PataJennifer-SumaN.cpp : 
 
 Es un programa encargado para que cualquier usuario en general pueda calcular los valores de varios números.
-
+```
 ## Funcionalidad
-
-PataJennifer-Compara.cpp 
+```
+### PataJennifer-Compara.cpp 
 
          float MJ_x,MJ_y;
 	   
@@ -57,7 +56,7 @@ PataJennifer-Compara.cpp
 	
 	 cin>>MJ_y;
 
-PataJennifer-CuentaMoneda.cpp
+### PataJennifer-CuentaMoneda.cpp
 
           int MJ_n,MJ_c=0,MJ_c1=0,MJ_c2=0,MJ_c3=0;
 
@@ -75,7 +74,7 @@ PataJennifer-CuentaMoneda.cpp
 	   
 	   cin>>MJ_x;
 
-PataJennifer-laedad.cpp
+### PataJennifer-laedad.cpp
  
             int MJ_da,MJ_ma,MJ_aa,MJ_dn,MJ_mn,MJ_an,MJ_d,MJ_m,MJ_a;
 	
@@ -87,7 +86,7 @@ PataJennifer-laedad.cpp
 	    
 	    cin>>MJ_dn>>MJ_mn>>MJ_an;
 
-PataJennifer-PuntoVenta.cpp
+### PataJennifer-PuntoVenta.cpp
 
              int MJ_c=0,MJ_n;
 
@@ -103,7 +102,7 @@ PataJennifer-PuntoVenta.cpp
 	     
 	     cin>>MJ_x;
 
-PataJennifer-SumaN.cpp
+### PataJennifer-SumaN.cpp
 
              int MJ_c=0,MJ_n;
 
@@ -118,9 +117,9 @@ PataJennifer-SumaN.cpp
 	      cout<<"Ingrese un Número: ";
 	      
 	      cin>>MJ_x;
-
+```
 ## Salidas de los Programas
-
+```
 ### PataJennifer-Compara.cpp
 
 cout<<"El valor de X: "<<MJ_x<<"es igual a Y: "<<MJ_y<<endl;
@@ -160,19 +159,19 @@ cout<<"El Valor Total de su Compra a pagar es: $ "<<MJ_vf<<endl;
 ### PataJennifer-SumaN.cpp
 
 cout<<"La Suma Total es: "<<MJ_a<<endl;
-
+```
 
 ## Instalación
 
-1.- Descargar F-Droid
+### 1.- Descargar F-Droid
 
 https://f-droid.org/
 
-2.- Descargar la Terminal (Termux)
+### 2.- Descargar la Terminal (Termux)
 
 Dentro de la aplicación F-Droid
 
-3.- Instalar paquetes en la Terminal (Termux)
+### 3.- Instalar paquetes en la Terminal (Termux)
 
 > pkg install git
  
@@ -187,19 +186,19 @@ Dentro de la aplicación F-Droid
 > apt upgrade
 
 			   
-## 4.- Clonar el Repositorio en la Terminal
+### 4.- Clonar el Repositorio en la Terminal
 
 git clone https://github.com/Goku3012/ACTIVIDAD-E2.git
 			   
-5.- Acceder al Repositorio
+### 5.- Acceder al Repositorio
 
 cd ACTIVIDAD-E2
 			    
-6.- Acceder al Directorio
+### 6.- Acceder al Directorio
 
  cd ACTIVIDAD-B2-C2
 		
-7.- Escribir Comando > ls
+### 7.- Escribir Comando > ls
 
 * PataJennifer-Compara
 * PataJennifer-Compara.cpp
@@ -219,23 +218,23 @@ cd ACTIVIDAD-E2
 		 
 ## Compilación de un Programa
 
-1.- Ingresar al Repositorio
+### 1.- Ingresar al Repositorio
 
 cd ACTIVIDAD-E2
 			    
-2.- Ingresar al Directorio
+### 2.- Ingresar al Directorio
 
 cd ACTIVIDAD-B2-C2
 	
-3.- Compilar Programa
+### 3.- Compilar Programa
 
 g++ PataJennifer-laedad.cpp -o PataJennifer-laedad
 			   
-### Ejecución de un Programa
+## Ejecución de un Programa
 
 ./PataJennifer-laedad
 			    
-#### Visualización del Programa.
+## Visualización del Programa.
 
 ![Image text](https://github.com/Goku3012/ACTIVIDAD-E2/blob/main/capture%20la%20edad%20(3).jpeg)
 
